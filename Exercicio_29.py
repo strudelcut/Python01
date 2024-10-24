@@ -1,0 +1,1 @@
+# Construa uma página/programa onde o usuário digitará seis números em um vetor e, depois esses números sejam exibidos na tela em ordem digitada.
