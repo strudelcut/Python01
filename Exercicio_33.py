@@ -1,0 +1,1 @@
+# Construa uma página/programa onde o usuário digitará sete números e o programa escreverá, na tela, quantos deles são pares e quantos são ímpares.
