@@ -1,0 +1,2 @@
+# Crie um jogo de par ou ímpar onde o computador irá gerar um número aleatório e o usuário irá digitar um número. Após digitar o número, o programa irá utilizar um vetor para
+# resolver o jogo. Se a soma dos números for par, o usuário vence. Se for ímpar, o computador vence.
