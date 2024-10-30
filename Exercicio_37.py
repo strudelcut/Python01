@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Construa uma página/programa onde o usuário digitará o nome, o telefone e a cidade de dez pessoas. O programa exbirá, na tela, o nome e o telefone das pessoas que moram em Campo Grande.
-=======
 # Construa uma página/programa onde o usuário digitará o nome, o telefone e a cidade de dez pessoas. O programa exbirá, na tela, o nome e o telefone das pessoas que moram em 
 # Campo Grande.
 
@@ -24,4 +21,3 @@ for i in range(len(nomes)):
 
 for i in range(len(nomes1)):
     print(f"Nome: {nomes1[i]}, Telefone: {telefones1[i]}")
->>>>>>> 9afa4cdbf03d88c8b2431ba59caea9643357c20a
